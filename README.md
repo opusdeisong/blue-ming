@@ -161,7 +161,7 @@ npm run lint       # 코드 품질 검사
 
 ## 📞 문의
 
-- **GitHub Issues**: [이슈 제기](https://github.com/your-username/blue-ming/issues)
+- **GitHub Issues**: [이슈 제기](https://github.com/opusdeisong/blue-ming/issues)
 - **이메일**: opusdeisong@gmail.com / drjina02@gmail.com / kujin920@gmail.com
 
 ---
